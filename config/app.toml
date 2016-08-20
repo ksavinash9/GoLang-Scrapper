@@ -1,0 +1,7 @@
+[development]
+port = 8080
+amazon_url = "http://www.amazon.de/gp/product/"
+
+[production]
+port = 8080
+amazon_url = "http://www.amazon.de/gp/product/"
